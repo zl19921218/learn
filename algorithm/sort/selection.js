@@ -2,7 +2,7 @@
  * @Author: 小石头
  * @Date: 2022-11-01 10:17:33
  * @LastEditors: 小石头
- * @LastEditTime: 2022-11-01 10:23:43
+ * @LastEditTime: 2023-06-05 10:32:00
  * @Description: 选择排序  寻找最小的元素
  */
 
@@ -29,4 +29,4 @@ function selectionSort(nums) {
 
 const arr = [0, 2, 5, 8, 3, 2];
 
-console.log(selectionSort(arr))
+console.log(selectionSort(arr));
